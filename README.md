@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Numerical Methods
 
-Repository for "Template".
+Repository for "Numerical Methods".
 
 
 ## Use instructions
